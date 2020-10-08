@@ -1,0 +1,226 @@
+[
+  {
+    "url": "https://github.com/xi-editor/xi-editor",
+    "repo": "xi-editor",
+    "desc": "A modern editor with a backend written in Rust.",
+    "star": "18.3k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/jmacdonald/amp",
+    "repo": "amp",
+    "desc": "A complete text editor for your terminal.",
+    "star": "2.3k",
+    "keywords": "rust vim terminal text-editor"
+  },
+  {
+    "url": "https://github.com/gchp/iota",
+    "repo": "iota",
+    "desc": "A terminal-based text editor written in Rust",
+    "star": "1.4k",
+    "keywords": "rust text-editor"
+  },
+  {
+    "url": "https://github.com/vhakulinen/gnvim",
+    "repo": "gnvim",
+    "desc": "GUI for neovim, without any web bloat",
+    "star": "1.1k",
+    "keywords": "neovim rust gui gtk ui nvim text-editor neovim-guis"
+  },
+  {
+    "url": "https://github.com/void-rs/void",
+    "repo": "void",
+    "desc": "terminal-based personal organizer",
+    "star": "776",
+    "keywords": "sparkline priorities mind-mapping rust task terminal time-series task-tracker efficiency mindmaps task-framework text-editor personal-organizer organizer task-list terminal-based"
+  },
+  {
+    "url": "https://github.com/ilai-deutel/kibi",
+    "repo": "kibi",
+    "desc": "A text editor in ≤1024 lines of code, written in Rust",
+    "star": "443",
+    "keywords": "syntax-highlighting rust terminal utf-8 text-editor hacktoberfest 1024"
+  },
+  {
+    "url": "https://github.com/xi-frontend/xi-term",
+    "repo": "xi-term",
+    "desc": "A terminal frontend for Xi",
+    "star": "428",
+    "keywords": "frontend terminal tui text-editor xi"
+  },
+  {
+    "url": "https://github.com/curlpipe/ox",
+    "repo": "ox",
+    "desc": "An independent Rust text editor that runs in your terminal!",
+    "star": "218",
+    "keywords": "rust editor terminal tui terminal-based hacktoberfest ox termion editors"
+  },
+  {
+    "url": "https://github.com/rhysd/kiro-editor",
+    "repo": "kiro-editor",
+    "desc": "A terminal UTF-8 text editor written in Rust 📝🦀",
+    "star": "215",
+    "keywords": "rust terminal utf-8 text-editor"
+  },
+  {
+    "url": "https://github.com/tcr/edit-text",
+    "repo": "edit-text",
+    "desc": "Collaborative rich text editor for the web. Written in Rust + WebAssembly.",
+    "star": "145",
+    "keywords": "rust editor docs webassembly wasm rtf"
+  },
+  {
+    "url": "https://github.com/IGI-111/Smith",
+    "repo": "Smith",
+    "desc": "A simple text editor written in Rust",
+    "star": "134",
+    "keywords": "smith rust tui text-editor"
+  },
+  {
+    "url": "https://github.com/Cogitri/Tau",
+    "repo": "Tau",
+    "desc": "GTK frontend for the xi text editor, written in Rust",
+    "star": "125",
+    "keywords": "gtk-frontend rust xi-editor editor"
+  },
+  {
+    "url": "https://github.com/hatoo/Accepted",
+    "repo": "Accepted",
+    "desc": "A terminal text editor to be ACCEPTED",
+    "star": "84",
+    "keywords": "rust vim competitive-programming text-editor"
+  },
+  {
+    "url": "https://github.com/akiradeveloper/ijk",
+    "repo": "ijk",
+    "desc": "A real editor for real programmers",
+    "star": "42",
+    "keywords": "vim editor rust terminal flamegraph"
+  },
+  {
+    "url": "https://github.com/mcobzarenco/zee",
+    "repo": "zee",
+    "desc": "A modern text editor for the terminal written in Rust",
+    "star": "31",
+    "keywords": "tree-sitter emacs cross-platform async ide rust-lang text-editor rope incremental-parsing"
+  },
+  {
+    "url": "https://github.com/huytd/snarkyed",
+    "repo": "snarkyed",
+    "desc": "GPU rendered text editor written in Rust",
+    "star": "25",
+    "keywords": "gui gpu text-editor rope"
+  },
+  {
+    "url": "https://github.com/maze-n/eddit",
+    "repo": "eddit",
+    "desc": "A basic text editor with GTK for GNU/Linux",
+    "star": "23",
+    "keywords": "gtk rust gtk-rs gtk3 text-editor gtksourceview eddit"
+  },
+  {
+    "url": "https://github.com/xi-frontend/xim",
+    "repo": "xim",
+    "desc": "A terminal front-end for Xi Editor keeping minimalism as principle",
+    "star": "9",
+    "keywords": "xim editor minimal xi"
+  },
+  {
+    "url": "https://github.com/arminha/kilo-rs",
+    "repo": "kilo-rs",
+    "desc": "Simple Rust text editor in the spirit of kilo",
+    "star": "8",
+    "keywords": "rust text-editor"
+  },
+  {
+    "url": "https://github.com/faraazahmad/loop",
+    "repo": "loop",
+    "desc": "A text editor built in Rust",
+    "star": "8",
+    "keywords": "rust editor terminal"
+  },
+  {
+    "url": "https://github.com/FHMS-ITS/Xim",
+    "repo": "Xim",
+    "desc": "Vim-like hex editor.",
+    "star": "8",
+    "keywords": "xim vim editor rust hex"
+  },
+  {
+    "url": "https://github.com/zesterer/zte",
+    "repo": "zte",
+    "desc": "Zesterer's Text Editor",
+    "star": "7",
+    "keywords": "rust text-editor"
+  },
+  {
+    "url": "https://github.com/ThibautGeriz/rustor",
+    "repo": "rustor",
+    "desc": "Toy text editor in rust",
+    "star": "6",
+    "keywords": "rust text-editor"
+  },
+  {
+    "url": "https://github.com/Eraden/rider",
+    "repo": "rider",
+    "desc": "Text editor in rust",
+    "star": "6",
+    "keywords": "rust editor simple ide"
+  },
+  {
+    "url": "https://github.com/jinfagang/m",
+    "repo": "m",
+    "desc": "m editor is a modern, easy to use, fast terminal editor then vim or emacs. written in pure Rust.",
+    "star": "6",
+    "keywords": "emacs vim editor terminal"
+  },
+  {
+    "url": "https://github.com/wjlroe/bim",
+    "repo": "bim",
+    "desc": "A text editor in Rust, very experimental [mirror of gitlab repo]",
+    "star": "3",
+    "keywords": "rust c text-editor"
+  },
+  {
+    "url": "https://github.com/darrenburns/bullet",
+    "repo": "bullet",
+    "desc": "A simple, terminal based text editor.",
+    "star": "3",
+    "keywords": "bullet rust text-editor rustlang terminal-based piece-table"
+  },
+  {
+    "url": "https://github.com/BookOwl/trusty",
+    "repo": "trusty",
+    "desc": "A code editor written in Rust for https://scratch.mit.edu/discuss/topic/233993/",
+    "star": "2",
+    "keywords": "rust console text-editor"
+  },
+  {
+    "url": "https://github.com/tamamu/mal",
+    "repo": "mal",
+    "desc": "A minimal text editor written in Rust.",
+    "star": "2",
+    "keywords": "editor rust cui"
+  },
+  {
+    "url": "https://github.com/mj-hd/vim-picomap",
+    "repo": "vim-picomap",
+    "desc": "visualize your code with overview like Visual Studio's minimap (under development)",
+    "star": "2",
+    "keywords": "vim rust neovim"
+  },
+  {
+    "url": "https://github.com/Gskartwii/teehee",
+    "repo": "teehee",
+    "desc": "A modal terminal hex editor",
+    "star": "2",
+    "keywords": "hex-editors vim terminal kakoune"
+  },
+  {
+    "url": "https://github.com/lucis-fluxum/rusted",
+    "repo": "rusted",
+    "desc": "Minimal Vim-like text editor in Rust",
+    "star": "1",
+    "keywords": "rust vim"
+  }
+]
